@@ -1,0 +1,13 @@
+[app]
+mode = "DEVELOPMENT"
+debug = true
+name = "Backend Service"
+url = "0.0.0.0"
+port = 4000
+
+[token.jwt]
+key = "generated123"
+expired = 259200
+
+[connection.sqlite]
+database = "customer_data.db"
