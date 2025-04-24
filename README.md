@@ -118,6 +118,14 @@ JWT-based authentication is available (optional). To use:
 3. Access protected endpoints.
 
 ---
+### 🧪 Test Credentials
+
+You can use the following credentials to log in as an admin user:
+
+- **Email**: `admin@admin.com`  
+- **Password**: `Admin@123`
+
+---
 
 ## 🖼️ Screenshots
 
